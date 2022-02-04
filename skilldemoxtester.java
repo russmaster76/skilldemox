@@ -5,6 +5,6 @@ public class skilldemoxtester {
     
     @Test
     public void subtracttest() {
-        assertEquals(3, skilldemox.subtraction(5, 3));
+        assertEquals(3, skilldemox.subtraction(5, 2));
     }
 }
